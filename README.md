@@ -1,6 +1,10 @@
-## Hi there 👋
-I am a 20 year old programmer who finds it difficult to stick to one thing, so you will find me working on all kinds of things. <br />
-Currently building the next big thing, soon to be out! So follow me to take a guess 😉
+### Hi there 👋
+I am a 20 year old programmer who finds it difficult to stick to one thing, so you will find me working on all sorts of things! <br />
+Currently trying to write compilers using Golang, let's see how that goes.
+
+Let's talk about computers, finance and music.
+
+Fun fact: I don't care as much about good code as I do about good teams.
 <!--
 **palcodes/palcodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
