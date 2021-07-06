@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am a 20 year old programmer who finds it difficult to stick to one thing, so you will find me working on all sorts of things! <br />
+I am a 21 year old programmer who finds it difficult to stick to one thing, so you will find me working on all sorts of things! <br />
 Currently trying to write compilers using Golang, let's see how that goes.
 
 Let's talk about computers, finance and music.
