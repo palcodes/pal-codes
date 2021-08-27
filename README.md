@@ -1,10 +1,11 @@
 ### Hi there 👋
-I am a 21 year old programmer who finds it difficult to stick to one thing, so you will find me working on all sorts of things! <br />
-Currently trying to write compilers using Golang, let's see how that goes.
+I am a 21 year old programmer who you will find working on all sorts of tech! <br />
+I like to code, cook, run. I believe in FOSS 🌐. <br />
+Currently trying to build the habit of writing, so that I can do it more often and feel more in sync with my thoughts & ideas. Soon will link the under-progress blog here. 
 
 Let's talk about computers, finance and music.
 
-Fun fact: I don't care as much about good code as I do about good teams.
+Fact: I don't care as much about good code as I do about good teams.
 <!--
 **palcodes/palcodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
