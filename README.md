@@ -1,7 +1,7 @@
 ### Hi there 👋
 I am a 21 year old programmer who you will find working on all sorts of tech! <br />
 I like to code, cook, run. I believe in FOSS 🌐. <br />
-Currently trying to build the habit of writing, so that I can do it more often and feel more in sync with my thoughts & ideas. Soon will link the under-progress blog here. 
+Currently trying to build the habit of writing, so that I can do it more often and feel more in sync with my thoughts & ideas. ~~Soon will link the under-progress blog here.~~ Check out the early writings at [pal.codes](https://pal.codes)
 
 Let's talk about computers, finance and music.
 
